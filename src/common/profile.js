@@ -1,0 +1,3 @@
+// Descriptors profile
+// export const JSON_PROFILE = require('../descriptors/bnk48.json');
+export const JSON_PROFILE = require('../descriptors/office.json');
